@@ -113,12 +113,14 @@ To subtract \(-33\) from \(-57\) using the 2's complement method, follow these s
    - \(-57\) in 8-bit binary: \(11000111\_{2}\)
    - 2's complement of \(-33\): \(00100001\_{2}\)
 
-   ```
-   11000111
-   + 00100001
-   -----------
-   11101000
-   ```
+   $$
+   \begin{array}{c}
+   \phantom{0}11000111 \\
+   + \phantom{0}00100001 \\
+   \hline
+   11101000 \\
+   \end{array}
+   $$
 
 4. **Interpret the result:**
 
@@ -131,6 +133,6 @@ To subtract \(-33\) from \(-57\) using the 2's complement method, follow these s
 
    - \(00011000*{2}\) is \(24*{10}\).
 
-   So, $`\(11101000*{2}\)`$ in decimal is $`\(-24*{10}\)`$.
+   So, \(11101000*{2}\) in decimal is \(-24*{10}\).
 
 Therefore, \(-57 - (-33) = -24\).
