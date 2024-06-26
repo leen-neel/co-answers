@@ -884,4 +884,4 @@ Refer to page 4 of the doc.
 
 # Question 40:
 
-Refer to page 5 of the doc.
+Refer to page 12 of the doc.
