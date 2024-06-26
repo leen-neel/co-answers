@@ -31,9 +31,50 @@ An active-high decoder is a digital circuit that decodes a binary input into one
 
 100111
 
-# Question 12:
+# Question 15:
+
+Refer to [this](https://www.geeksforgeeks.org/difference-between-flip-flop-and-latch/)
+
+# Question 16:
+
+A counter is a digital circuit or device used to count events or occurrences of signals over time. Its functionality includes:
+
+1. **Counting:** Incrementing or decrementing a digital value in response to input pulses or clock signals.
+2. **Storing:** Holding the current count value until it is updated by the next input pulse.
+3. **Outputting:** Providing the count value as an output, often in binary form, for further processing or display.
+
+Counters are essential in various applications such as frequency measurement, digital clocks, timers, and address generation in memory circuits.
+
+# Question 20:
 
 141
+
+# Question 24:
+
+Synchronous counters: Use a common clock signal to synchronize all flip-flops, ensuring simultaneous state changes. Asynchronous counters: Each flip-flop triggers based on the output of the previous flip-flop, allowing for variable timing and potentially uneven propagation delays.
+
+# Question 25:
+
+An accumulator (AC) is a register in a CPU that stores the result of arithmetic and logic operations. Its functionality includes:
+
+1. **Storage:** Holding the interim results of arithmetic computations.
+2. **Arithmetic Operations:** Performing addition, subtraction, and other arithmetic operations using data from memory or registers.
+3. **Data Transfer:** Facilitating data movement between memory, registers, and input/output devices, crucial in arithmetic calculations and data processing in a computer system.
+
+# Question 26:
+
+A combinational circuit is a digital circuit where the output is solely determined by the current inputs, without any regard to previous input states. These circuits do not have memory elements, such as flip-flops or latches. Examples include:
+
+1. **Logic Gates:** Circuits built from AND, OR, NOT gates, etc., where the output depends only on the current input values.
+
+2. **Multiplexers (MUX):** A MUX selects one of several input lines based on control inputs, with the output determined by the combination of inputs.
+
+3. **Demultiplexers (DEMUX):** A DEMUX routes a single input to one of several output lines based on control inputs, operating similarly to a MUX in terms of input-output relationship.
+
+# Question 27:
+
+1. **Half Adder:** Adds two binary digits and generates a sum and a carry, but cannot handle a carry input from a previous addition.
+2. **Full Adder:** Adds three binary digits (two operands and a carry-in) to produce a sum and a carry-out, allowing for cascading multiple additions.
 
 # Question 29:
 
