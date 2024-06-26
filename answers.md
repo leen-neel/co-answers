@@ -131,6 +131,6 @@ To subtract \(-33\) from \(-57\) using the 2's complement method, follow these s
 
    - \(00011000*{2}\) is \(24*{10}\).
 
-   So, $`\(11101000*{2}\) in decimal is \(-24*{10}\)`$.
+   So, $`\(11101000*{2}\)`$ in decimal is $`\(-24*{10}\)`$.
 
 Therefore, \(-57 - (-33) = -24\).
